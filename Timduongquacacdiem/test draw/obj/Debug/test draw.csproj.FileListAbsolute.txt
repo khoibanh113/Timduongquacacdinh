@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\bin\Debug\test draw.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\bin\Debug\test draw.exe
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\bin\Debug\test draw.pdb
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\obj\Debug\test draw.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\obj\Debug\test_draw.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\obj\Debug\test draw.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\obj\Debug\test draw.exe
+c:\users\admin\documents\visual studio 2015\Projects\test draw\test draw\obj\Debug\test draw.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\test draw\test draw\obj\Debug\test_draw.Form1.resources
